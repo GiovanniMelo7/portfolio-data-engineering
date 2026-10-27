@@ -1,0 +1,14 @@
+# Windows
+desktop.ini
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Credenciais e variáveis de ambiente
+.env
+.env.*
+!.env.example
