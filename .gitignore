@@ -1,6 +1,7 @@
-# Windows
+# Sistema operacional
 desktop.ini
 Thumbs.db
+.DS_Store
 
 # Python
 __pycache__/
@@ -8,7 +9,12 @@ __pycache__/
 .venv/
 venv/
 
-# Credenciais e variáveis de ambiente
+# Variáveis de ambiente e credenciais
 .env
 .env.*
 !.env.example
+secrets/
+credentials.json
+
+# Logs
+*.log
