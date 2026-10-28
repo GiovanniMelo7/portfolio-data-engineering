@@ -74,6 +74,6 @@ Para engenharia de dados, o mesmo princípio vale para validar SQL, testes de qu
 | `git reflog` | Recuperar commits "perdidos" depois de um reset ou rebase |
 | `git submodule update --init --recursive` | Baixar os submodules de um repositório recém-clonado |
 
-## 5. Links
+## 4. Links
 
 - Repositório do portfólio: https://github.com/GiovanniMelo7/portfolio-data-engineering
